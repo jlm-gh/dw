@@ -1,4 +1,4 @@
-======= Chapitre 3 - Création des personnages =======
+# Chapitre 3 - Création des personnages 
 
 Créer un personnage de Dungeon World est rapide et facile. Vous devriez tous créer vos permiers personnages ensemble au début de la première séance. La création de personnage est, tout comme le jeu, une sorte de
 conversation et tout le monde devrait y participer.
@@ -15,7 +15,7 @@ suivantes et le descriptif de votre classe vous
 aideront dans votre progression.
 
 Une première mouture des [[https://drive.google.com/open?id=0B0lEWqFYNFUhMHV4LVBFa1ROZU0|fiches de personnages]] est disponible. En les imprimant 2 pages sur une, on obtient un excellent résultat.
-====== 1. Choisissez une classe ======
+## 1. Choisissez une classe 
 
 Lisez les classes de personnages et choisissez
 celle qui vous intéresse. Pour commencer, tout
@@ -33,7 +33,7 @@ ce serait mon premier choix. Personne d’autre
 ne pensait à jouer ce perso, je prends donc la
 feuille de personnage du magicien.//
 
-====== 2. Choisissez un peuple ======
+ ## 2. Choisissez un peuple 
 
 La plupart des classes permettent de choisir
 parmi plusieurs peuples. Choisissez-en un.
@@ -47,7 +47,7 @@ choisir un sort de clerc et de le lancer comme
 si c’était un sort de magicien. Ça soulagera
 le clerc de Shannon pour les sorts de soin.//
 
-====== 3. Choisissez un nom ======
+## 3. Choisissez un nom
 
 Choisissez un nom pour votre personnage dans
 la liste.
@@ -55,7 +55,7 @@ la liste.
 //Allez, il me faut un nom de mage. Disons
 Avon, oui, c’est bien.//
 
-====== 4. Choisissez un aspect ======
+## 4. Choisissez un aspect 
 
 Votre aspect est votre apparence physique.
 Choisissez un item de chaque liste.
@@ -70,22 +70,22 @@ vient de l’au-delà par un rituel d’invocation.
 Je n’ai jamais un moment pour me nourrir
 correctement, donc je suis maigre.//
 
-====== 5. Répartissez les scores ======
+## 5. Répartissez les scores 
 Attribuez les scores suivants à vos caractéristiques :
-16, 15, 13, 12, 9, 8.\\
+15, 14, 12, 11, 9, 8.\\
 Commencez par lire les actions de base et les
 actions de départ de votre classe.\\
 Choisissez l’action qui vous intéresse le plus,
 quelque chose que vous allez faire souvent ou
-dans quoi vous excellez. Attribuez un 16 à la
+dans quoi vous excellez. Attribuez un 15 à la
 caractéristique utilisée pour cette action.\\
 Regardez de nouveau la liste et choisissez
 la prochaine action la plus importante pour
 votre personnage, peut-être quelque chose qui
 complète votre premier choix. Attribuez votre
-15 à la caractéristique utilisée pour cette action.
+14 à la caractéristique utilisée pour cette action.
 Répétez ce processus pour vos scores restant :
-13, 12, 9, 8.
+12, 11, 9, 8.
 
 Une autre méthode, si tout le monde souhaite
 un peu plus de hasard, est de tirer trois d6,
@@ -100,20 +100,20 @@ avant de choisir votre classe.
 
 //On dirait que je vais avoir besoin d’intelligence
 pour lancer des sorts, qui sont ma spécialité,
-donc j’y mets le 16. Je pense aussi utiliser la
+donc j’y mets le 15. Je pense aussi utiliser la
 dextérité pour défier le danger, en esquivant
-un sort par exemple, donc j’y mets mon 15.
-Un 13 en sagesse va m’aider à remarquer
+un sort par exemple, donc j’y mets mon 14.
+Un 12 en sagesse va m’aider à remarquer
 les détails importants (et peut-être garder
 aussi ma santé mentale, qui consiste à
 défier le danger avec l’ajustement de SAG).
 Le charisme pourrait être utile lors des
 tractations avec des créatures invoquées, j’y
-mets le 12. C’est quand même sympa de vivre,
+mets le 11. C’est quand même sympa de vivre,
 je mets donc 9 en constitution pour quelques
 PV de plus. Il reste le 8 pour la force.//
 
-====== 6. Notez les ajustements ======
+## 6. Notez les ajustements 
 
 Ensuite, déterminez les ajustements correspondant
 à vos scores grâce au tableau ci-dessous. Les
@@ -129,16 +129,17 @@ action dit + DEX ou + CHA.
 | 16-17	| + 2 |
 | 18		| + 3 |
 
-====== 7. Déterminez votre maximum de points de vie ======
-Votre maximum de points de vie est égal à
-la base de PV de votre classe de personnage
-+ Constitution. Vous commencez avec vos PV
-au maximum.
+## 7. Déterminez votre maximum de points de vie
+Votre maximum de points de vie est égal à: 
+
+`la base de PV de votre classe de personnage + CON`
+
+Vous commencez avec vos PV au maximum.
 
 //Une base de 4 plus 9 de constitution me
-donne un résultat époustouflant de 13 PV.//
+donne un résultat époustouflant de 4 PV.//
 
-====== 8. Choisissez vos actions de départ ======
+## 8. Choisissez vos actions de départ 
 
 Le recto de chaque feuille de personnage
 énumère les actions de départ. Certaines classes,
@@ -157,7 +158,7 @@ ma classe. Je choisis alarme comme dernier
 sort. Je pense en faire quelques utilisations
 intéressantes.//
 
-====== 9. Choisissez votre alignement ======
+## 9. Choisissez votre alignement 
 
 Votre alignement décrit, en quelques mots, la
 tendance morale de votre personnage. Chaque
@@ -172,7 +173,7 @@ je gagne un PX supplémentaire si je perce
 un mystère magique. C’est justement le but
 d’Avon. Je choisis neutre.//
 
-====== 10. Choisissez votre équipement ======
+## 10. Choisissez votre équipement 
 Chaque classe a des choix à faire pour son
 équipement de départ. Gardez votre charge
 (poids) à l’esprit, elle limite ce que vous pouvez
@@ -186,7 +187,8 @@ dague semble plus pratique que le bâton pour
 les rituels. C’est pile ou face entre la potion de
 guérison et l’antidote. Allez, je prends les soins.
 J’ai droit aussi à quelques rations.//
-====== 11. Présentez votre personnage ======
+
+## 11. Présentez votre personnage 
 
 Maintenant que vous savez qui est votre
 personnage, il est temps de le présenter à tout le
@@ -216,7 +218,7 @@ corps mince. Ses habits sont bizarres car ils ne
 sont pas réellement de ce monde. En fait, ils lui
 sont apparus lors d’un rituel d’invocation ».//
 
-====== 12. Choisissez vos liens ======
+## 12. Choisissez vos liens 
 Une fois que tout le monde a présenté son
 personnage, vous pouvez choisir vos liens. Vous
 devez au moins en prendre un, mais vous avez
@@ -266,7 +268,7 @@ le monde a fini, je lis mes liens à haute voix
 puis nous discutons tous des raisons pour
 lesquelles nous sommes ensemble.//
 
-====== 13. Préparez-vous à démarrer la partie ======
+## 13. Préparez-vous à démarrer la partie 
 
 Prenez une petite pause, buvez un verre, allez
 vous dégourdir les jambes et laissez le MJ se
