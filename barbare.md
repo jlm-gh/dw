@@ -1,0 +1,285 @@
+======= Chapitre 4 - Le barbare =======
+//Ceux qui t'accompagnent se disent civilisés mais ils ont inventé la servilité, l'hypocrisie et leurs cités ne sont que puanteur et maladie. Tu vas leur montrer ce que sont la liberté, la franchise de l'acier et la
+pureté des grands espaces.\\
+Ils peuvent se contenter d'une gorgée de vin
+ou d'un ou deux esclaves à leur service, mais
+il t'en faut plus ! Ton appétit est sans fin,
+perpétuellement inassouvi.\\
+Il te faut l'immense steppe, un rapide coursier,
+un faucon à ton poing et le vent dans tes
+cheveux. Il te faut les richesses et les terres, la
+fortune et la gloire, écraser tes ennemis, les voir
+mourir devant toi et entendre les lamentations
+de leurs femmes.\\
+Ils peuvent te combattre à cinq contre un, tenter
+de t'empoisonner comme les lâches qu'ils sont,
+passer dans ton dos pour y planter leur dague,
+tu les méprises. Car tout ce qui ne te tue pas te
+rend plus fort !
+//
+
+====== Noms ======
+Gorm, Si-Yi, Priscilla, Sen, Xia, Anneira,
+Haepha, Lur, Shar, Korrin, Nkosi, Fafnir,\\
+Qua, Sacer, Vercin'geto, Barbozar, Clovis, Frael,
+Thra-raxes, Sillius, Sha-Sheena, Khamisi
+
+====== Titres ======
+Le Glorieux, l'Affamé, l'Irascible, l'Invaincu, le
+Vorace, le Broyeur d'Ennemis, le Briseur d'Os,
+le Joyeux, le Mélancolique, le Tout-Puissant, le
+Géant, le Triomphant
+
+====== Aspect ======
+Choisissez un de chaque :
+  * Regard tourmenté, yeux hagards, regard féroce, yeux voilés
+  * Gros biscotos,  longues jambes, squelettique, corps souple
+  * Tatouages étranges, bijoux insolites, pas la moindre parure
+  * Fripes, soieries, allure de pillard, tenue inadaptée au climat
+
+====== Caractéristiques ======
+Votre maximum de points de vie est égal à 8+Constitution.\\
+Vous infligez un d10 dégâts de base.
+
+====== Actions de départ ======
+
+Votre action de peuple est la suivante :
+
+  * //Étranger// : Vous pouvez être elfe, nain,
+halfelin ou humain, mais vous et les
+vôtres n'êtes pas d'ici. Au début de chaque
+session, le MJ vous demandera quelque
+chose à propos de votre terre natale,
+pourquoi vous l'avez quittée ou ce que
+vous avez laissé derrière vous. Si vous
+répondez, marquez 1 PX.
+
+Choisissez une des actions suivantes :
+  * **Bardé d'acier** : Ignorez le marqueur //encombrant// de l'armure que vous portez.
+  * **À poil et indemne** : Tant que vous
+transportez moins que votre poids
+maximum et que vous ne portez ni
+armure ni bouclier, gagnez +1 armure.
+
+Démarrez également avec les actions suivantes :
+
+===== Appétits herculéens  =====
+
+Les autres peuvent se contenter d'une gorgée de vin ou d'un ou deux esclaves à leur service, mais il vous en faut plus !\\
+
+Choisissez deux ambitions ci-dessous. Lorsque
+vous poursuivez l'une de vos ambitions, si vous
+deviez lancer deux d6 pour une action, lancez
+un d6 et un d8 à la place. Si le résultat du d6 est
+supérieur à celui du d8, le MJ peut introduire
+une complication ou un danger provoqué par
+votre avidité.
+  * Destruction pure
+  * Pouvoir sur autrui
+  * Plaisirs terrestres
+  * Conquête
+  * Richesses et possessions
+  * Gloire et renommée
+===== Garder la main =====
+Vous avez +1 continu sur votre //dernier soupir//.
+Lorsque vous rendez votre //dernier soupir//, sur
+un 7-9 faites une offre à la Mort en échange de
+votre vie. Si la Mort accepte, elle vous rend la
+vie, sinon vous trépassez.
+
+===== Costaud =====
+Lorsque vous portez une arme, celle-ci gagne
+les marqueurs //puissant// et //dévastateur//.
+
+===== Qu'est-ce que t'attends ? =====
+Quand vous hurlez un défi à vos ennemis, lancez
+2d6+CON.\\
+Sur 10+, ils vous considèrent comme la menace
+la plus importante à affronter et ignorent vos
+compagnons. Gagnez +2 dégâts continu contre
+eux.\\
+Sur 7-9, seuls quelques-uns (les plus faibles
+ou les plus téméraires) succombent à vos
+provocations.
+
+====== Alignement ======
+Choisissez un alignement :
+
+  * //Chaotique// : Se soustraire à une coutume du monde civilisé.
+  * //Neutre// : Enseigner les coutumes de votre peuple à quelqu’un.
+
+====== Équipement ======
+Calculez d’abord le poids maximum que vous
+pouvez transporter. Il est égal à 9 + FOR.
+
+Vous débutez avec des rations (5 utilisations,
+1 poids), une dague (contact, 1 poids), un
+souvenir de vos voyages et de votre terre natale
+et une arme de votre choix :
+
+  * Hache (proche, 1 poids)
+  * Épée à deux mains (proche, +1 dégât, 2 poids)
+
+Prenez un lot au choix parmi :
+  * Sac d’aventurier (1 poids) et des rations (5 utilisations, 1 poids)
+  * Cotte de mailles (1 armure, 1 poids)
+
+====== Liens ======
+Choisissez au moins un des liens ci-dessous et
+inscrivez le nom du (ou des) PJ avec lesquels
+vous êtes lié :
+  * //Nom du PJ// est faible et stupide, mais il m’amuse.
+  * Le comportement de //Nom du PJ// est bizarre et déroutant.
+  * //Nom du PJ// se fourre toujours dans les ennuis, je dois le protéger de lui-même.
+  * //Nom du PJ// partage ma faim de gloire ; la terre tremblera sur notre passage !
+
+====== Actions avancées ======
+**Quand vous gagnez un niveau entre 2 et 5,
+choisissez une de ces actions :**
+
+===== Toujours affamé =====
+Choisissez une ambition supplémentaire.
+
+===== Avide de destruction =====
+Choisissez une action de la liste du guerrier, du
+barde ou du voleur. Vous ne pouvez pas prendre
+l’action multiclasse.
+
+===== Berserker ! =====
+Lorsque vous accomplissez une prouesse
+physique, nommez une personne présente que
+vous avez impressionnée et vous avez +1 à
+suivre pour négocier avec elle.
+
+===== Qu’y a-t-il de mieux dans la vie ? =====
+A la fin d’une session, si au cours de celle-ci vous
+avez écrasé vos ennemis, les avez vu mourir
+devant vous ou avez entendu les lamentations
+de leurs proches, marquez 1 PX.
+
+===== Grand voyageur =====
+Vous avez bourlingué à travers le monde.
+Lorsque vous arrivez quelque part, demandez
+au MJ quelles sont les traditions importantes,
+les rituels, etc. Il vous dira ce que vous avez
+besoin de savoir.
+
+===== Usurpateur =====
+Lorsque vous démontrez votre supériorité sur un
+puissant de ce monde, vous avez +1 à suivre envers
+ses serviteurs, ses hommes de main et ses courtisans.
+
+===== Khan des Khans =====
+Vos recrues acceptent toujours l’accomplissement
+de l’une de vos ambitions comme paiement.
+
+===== Samson =====
+Vous pouvez cocher un handicap pour vous
+libérer instantanément d’une entrave physique
+ou mentale.
+
+=====Blam ! =====
+Lorsque vous //taillez en pièces//, sur 12+ infligez
+vos dégâts et choisissez quelque chose de
+matériel que perd votre adversaire (une arme,
+sa position, un membre).
+
+===== Faim insatiable =====
+
+Lorsque vous subissez des dégâts, vous pouvez
+choisir de les ignorer en prenant -1 continu
+jusqu’à ce que vous ayez satisfait l’une de vos
+ambitions.
+
+===== Trouver la faille =====
+
+Quand vous //discernez la réalité//, vous pouvez
+ajouter « Qu’est ce qui est faible ou vulnérable
+ici ? » à la liste des questions que vous pouvez
+poser.
+
+===== Mobilité =====
+
+Vous avez +1 lorsque vous //défiez le danger//
+lors d’un mouvement (comme tomber d’un
+pont étroit ou forcer un barrage de gardes en
+courant).
+
+**Quand vous gagnez un niveau entre 6 et 10,
+vous pouvez également choisir parmi les
+actions suivantes :**
+
+===== Un bon jour pour mourir =====
+Vous avez +1 continu tant que vos PV sont
+inférieurs à votre CON (ou 1, prenez le plus
+élevé des deux).
+
+===== Tuez-les tous ! =====
+//Requiert : Avide de destruction//\\
+Prenez une autre action de guerrier, barde ou
+de voleur. Vous ne pouvez pas prendre l’action
+multiclasse.
+
+=====Cri de guerre=====
+Lorsque vous vous invitez dans la bataille par
+une démonstration de force (un hurlement, un
+cri de ralliement, une danse de guerre), lancez
+2d6+CHA.\\
+Sur 10+, les deux effets suivants s’appliquent.
+Sur 7-9, c’est l’un des deux.
+
+  * Vos alliés se rallient et ont +1 à suivre.
+  * Vos ennemis prennent peur et agissent
+en fonction (ils vous évitent, se cachent,
+attaquent sous l’effet de la terreur)
+
+=====Symbole du pouvoir=====
+
+Lorsque vous choisissez cette action et que vous
+méditez sans interruption votre gloire passée,
+vous pouvez arborer un symbole de votre
+pouvoir (une longue natte tressée de clochettes,
+des cicatrices rituelles, des tatouages, etc.). A
+sa simple vue, toute créature mortelle douée
+d’intelligence sait instinctivement qu’elle a
+affaire à une puissance non négligeable et vous
+traite en conséquence.
+
+=====Toujours plus !=====
+Quand vous poussez l’une de vos ambitions à
+l’extrême (en détruisant quelque chose d’unique
+et d’important, en accédant à une prodigieuse
+renommée, richesse, puissance, etc.), vous
+pouvez décider de mettre fin à cette ambition.
+Rayez-là de votre liste et marquez un PX. Bien
+que vous puissiez poursuivre de nouveau cette
+ambition, vous ne ressentez plus ce besoin
+impérieux de le faire. A sa place, choisissez une
+nouvelle ambition de la liste ou créez-en une.
+
+=====C’est moi le danger=====
+Lorsque vous //défiez le danger//, sur 12+ vous
+renvoyez le danger d’où il vient, le MJ vous dira
+comment.
+
+=====Une saine méfiance=====
+Chaque fois que la magie malsaine des hommes
+vous oblige à //défier le danger//, traitez tout
+résultat de 6- comme un 7-9.
+
+=====Pour le dieu sanglant=====
+Vous êtes initié aux anciens rites sacrificiels.
+Désignez ce à quoi vos dieux (ou esprits
+ancestraux, votre totem, etc.) attachent de la
+valeur : de l’or, du sang, des os ou quelque chose
+du même genre.\\
+Lorsque vous sacrifiez cela selon le rituel, lancez
+2d6+SAG.\\
+Sur 10+, le MJ vous accorde une vision à propos
+de vos problèmes actuels ou une bénédiction
+qui vous viendra en aide.\\
+Sur 7-9, vos dieux vous accordent une vision
+ou une bénédiction mais le sacrifice n’était pas
+suffisant : ils ont pris aussi de votre chair.\\
+Sur un échec, vous vous attirez la colère des
+esprits capricieux.
