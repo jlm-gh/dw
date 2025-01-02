@@ -14,7 +14,8 @@ tout ce qu’il faut pour démarrer. Les étapes
 suivantes et le descriptif de votre classe vous
 aideront dans votre progression.
 
-Une première mouture des [[https://drive.google.com/open?id=0B0lEWqFYNFUhMHV4LVBFa1ROZU0|fiches de personnages]] est disponible. En les imprimant 2 pages sur une, on obtient un excellent résultat.
+Une première mouture des [fiches de personnages](https://drive.google.com/open?id=0B0lEWqFYNFUhMHV4LVBFa1ROZU0|) est disponible. En les imprimant 2 pages sur une, on obtient un excellent résultat.
+
 ## 1. Choisissez une classe 
 
 Lisez les classes de personnages et choisissez
@@ -26,12 +27,12 @@ Plus tard, s’il vous faut créer un personnage de
 remplacement, vous pourrez choisir une classe
 que quelqu’un d’autre joue déjà.
 
-//Je vais jouer avec Paul et Shannon à une
+*Je vais jouer avec Paul et Shannon à une
 partie dont John sera le MJ. J’ai quelques idées
 sympa pour un magicien, je signale donc que
 ce serait mon premier choix. Personne d’autre
 ne pensait à jouer ce perso, je prends donc la
-feuille de personnage du magicien.//
+feuille de personnage du magicien.*
 
  ## 2. Choisissez un peuple 
 
@@ -40,27 +41,27 @@ parmi plusieurs peuples. Choisissez-en un.
 Votre peuple vous donne droit à une action
 spéciale.
 
-//J’aime l’idée d’être flexible. Avoir le plus de
+*J’aime l’idée d’être flexible. Avoir le plus de
 sorts possible c’est toujours bon, non ? Je
 choisis un humain, car cela me permettra de
 choisir un sort de clerc et de le lancer comme
 si c’était un sort de magicien. Ça soulagera
-le clerc de Shannon pour les sorts de soin.//
+le clerc de Shannon pour les sorts de soin.*
 
 ## 3. Choisissez un nom
 
 Choisissez un nom pour votre personnage dans
 la liste.
 
-//Allez, il me faut un nom de mage. Disons
-Avon, oui, c’est bien.//
+*Allez, il me faut un nom de mage. Disons
+Avon, oui, c’est bien.*
 
 ## 4. Choisissez un aspect 
 
 Votre aspect est votre apparence physique.
 Choisissez un item de chaque liste.
 
-//Des yeux cernés me paraissent bien, parce que
+*Des yeux cernés me paraissent bien, parce que
 tous les magiciens voient des choses interdites
 aux mortels. Aucun magicien digne de ce nom
 n’a le temps de se coiffer convenablement, donc
@@ -68,17 +69,18 @@ j’aurai des cheveux en bataille. Ma robe est
 étrange et je dirai à tout le monde qu’elle me
 vient de l’au-delà par un rituel d’invocation.
 Je n’ai jamais un moment pour me nourrir
-correctement, donc je suis maigre.//
+correctement, donc je suis maigre.*
 
 ## 5. Répartissez les scores 
-Attribuez les scores suivants à vos caractéristiques :
-15, 14, 12, 11, 9, 8.\\
+Attribuez les scores suivants à vos caractéristiques :  
+***15, 14, 12, 11, 9, 8***.  
+ 
 Commencez par lire les actions de base et les
-actions de départ de votre classe.\\
+actions de départ de votre classe.  
 Choisissez l’action qui vous intéresse le plus,
 quelque chose que vous allez faire souvent ou
 dans quoi vous excellez. Attribuez un 15 à la
-caractéristique utilisée pour cette action.\\
+caractéristique utilisée pour cette action.  
 Regardez de nouveau la liste et choisissez
 la prochaine action la plus importante pour
 votre personnage, peut-être quelque chose qui
@@ -91,14 +93,14 @@ Une autre méthode, si tout le monde souhaite
 un peu plus de hasard, est de tirer trois d6,
 d’en faire le total et de l’attribuer à une de vos
 caractéristiques puis de recommencer pour les
-cinq autres.\\
+cinq autres.
 Si vous souhaitez quelque chose de réellement
 aléatoire, vous faites la même chose mais dans
 l’ordre (FOR, DEX, CON, INT, SAG, CHA). Si vous
 prenez cette méthode, tirez vos caractéristiques
 avant de choisir votre classe.
 
-//On dirait que je vais avoir besoin d’intelligence
+*On dirait que je vais avoir besoin d’intelligence
 pour lancer des sorts, qui sont ma spécialité,
 donc j’y mets le 15. Je pense aussi utiliser la
 dextérité pour défier le danger, en esquivant
@@ -111,7 +113,7 @@ Le charisme pourrait être utile lors des
 tractations avec des créatures invoquées, j’y
 mets le 11. C’est quand même sympa de vivre,
 je mets donc 9 en constitution pour quelques
-PV de plus. Il reste le 8 pour la force.//
+PV de plus. Il reste le 8 pour la force.*
 
 ## 6. Notez les ajustements 
 
@@ -120,14 +122,15 @@ Ensuite, déterminez les ajustements correspondant
 ajustements sont ce que vous utilisez quand une
 action dit + DEX ou + CHA.
 
-^ Score  ^ Ajustement ^
-| 1-3         | - 3     |
-| 4-5		| - 2 |
+| Score      | Ajustement      |
+| ------------- | ------------- |
+| 1-3   | - 3     |
+| 4-5	| - 2 |
 | 6-8	| - 1	|
 | 9-12	| 0  |
 | 13-15	| + 1	|
 | 16-17	| + 2 |
-| 18		| + 3 |
+| 18	| + 3 |
 
 ## 7. Déterminez votre maximum de points de vie
 Votre maximum de points de vie est égal à: 

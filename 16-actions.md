@@ -1,6 +1,6 @@
-======= Chapitre 16 - Les actions =======
+# Chapitre 16 - Les actions
 
-======Les actions de base======
+## Les actions de base
 
 Ce chapitre énumère les règles de fonctionnement des actions et détaille l'ensemble de celles accessibles à tous les PJ: les actions de base et les actions spéciales.
 
@@ -8,25 +8,18 @@ Les actions de base sont le pain quotidien
 de l’aventurier. Elles couvrent des situations
 susceptibles d’arriver en combat, lors de
 négociations tendues ou dans les zones
-dangereuses.\\
-Les actions spéciales s’utilisent un peu plus
-rarement. Elles sont utilisées lorsque l’on gagne
-un niveau, ou qu’on entreprend un long voyage,
-ou encore lorsque l’on revient en ville entre
-deux aventures.\\
-Tous les PJ ont accès aux actions de base et aux
-actions spéciales. Chaque PJ a également des
-actions spécifiques à sa classe.
+dangereuses.  
+Les actions spéciales s’utilisent un peu plus rarement. Elles sont utilisées lorsque l’on gagne un niveau, ou qu’on entreprend un long voyage, ou encore lorsque l’on revient en ville entre deux aventures.  
+Tous les PJ ont accès aux actions de base et aux actions spéciales. Chaque PJ a également des actions spécifiques à sa classe.
 
 Chaque action est décrite par son nom
 et les règles qui s’y rattachent. Certaines
 sont également accompagnées d’une brève
 description sur la façon de les utiliser.
 
-
 ----
 
-======Tailler en pièces (FOR)======
+### Tailler en pièces (FOR)
 Quand vous attaquez un ennemi en
 mêlée, jetez 2d6+FOR. Sur 10+, vous
 infligez vos dégâts à l’ennemi et évitez son
@@ -123,7 +116,7 @@ fais-tu ?
 
 ----
 
-======Salve (DEX)======
+### Salve (DEX)
 Quand vous visez et tirez sur un ennemi
 à distance, lancez 2d6+DEX. Sur 10+,
 c’est un coup au but, infligez vos dégâts.
@@ -197,7 +190,7 @@ gourdin pour t’exploser la tête. Que fais-tu ?
 
 ----
 
-======Défier le danger======
+### Défier le danger
 Quand vous agissez malgré une menace
 imminente ou que vous subissez une
 catastrophe, décrivez la façon de vous y
@@ -314,7 +307,7 @@ les dés !
 
 ----
 
-======Défendre (CON)======
+### Défendre (CON)
 Quand vous //défendez// une personne, un
 objet ou un endroit d’une attaque, lancez
 2d6+CON.
@@ -424,7 +417,7 @@ toute seule Durga !
 
 ----
 
-======Étaler sa science (INT)======
+### Étaler sa science (INT)
 Quand vous faites appel à votre savoir
 concernant quelque chose, lancez
 2d6+INT. Sur 10+, le MJ vous dira
@@ -502,7 +495,7 @@ transformer en un sort de feu.\\
 //
 ----
 
-======Discerner la réalité (SAG)======
+### Discerner la réalité (SAG)
 Lorsque vous observez attentivement
 une situation ou une personne, lancez
 2d6+SAG. Sur 10+, posez 3 questions de
@@ -589,7 +582,7 @@ chose là-dedans qui a essayé de sortir.\\
 
 ----
 
-======Négocier (CHA)======
+### Négocier (CHA)
 Quand vous négociez avec un PNJ et
 que vous avez une monnaie d’échange,
 lancez 2d6+CHA. Sur 10+, il fera ce que
@@ -702,7 +695,7 @@ monnaie d’échange. Peut-être un pot de vin ?
 
 
 
-====== Aider ou gêner (LIEN) ======
+###  Aider ou gêner (LIEN)
 
 Quand vous aidez ou gênez quelqu’un
 avec qui vous avez un lien, lancez
@@ -765,7 +758,7 @@ tentative pour défendre. Allons-y !
 //
 
 
-======= Actions spéciales =======
+## Actions spéciales
 
 
 Les actions spéciales se produisent moins
@@ -777,37 +770,28 @@ donjons ou deux aventures palpitantes.
 
 ----
 
-======Dernier soupir======
+### Dernier soupir 
 
-Quand vous rendez votre //dernier soupir//,
+Quand vous rendez votre **dernier soupir**,
 vous avez un bref aperçu de ce qui vous
 attend derrière le Sombre Portail du
 Royaume des Morts (le MJ vous dira
-quoi). Puis lancez 2d6+ rien (oui, rien,
-la mort se moque de savoir si vous êtes
-baraqué ou sympa).\\
-Sur 10+, vous échappez à la Mort. Vous
-êtes en mauvaise posture mais encore
-vivant.\\
-Sur 7-9, la Mort elle-même vous propose
-un marché. Acceptez et vous êtes
-stabilisé ou refusez et rejoignez ce qui
-vous attend derrière le Sombre Portail.
-Sur 6-, votre funeste sort est inévitable
+quoi).
+
+Vous disposez à la création d'un bonus de +3 qui décroit de 1 jusqu'a 0 à chaque fois que vous effectuez cette action
+
+Puis lancez 2d6 (la mort se moque de savoir si vous êtesbaraqué ou sympa).
+
+* Sur 10+, vous échappez à la Mort. Vous êtes en mauvaise posture mais encore vivant.
+* Sur 7-9, la Mort elle-même vous propose un marché. Acceptez et vous êtes stabilisé ou refusez et rejoignez ce qui vous attend derrière le Sombre Portail.
+* Sur 6-, votre funeste sort est inévitable
 et vous franchirez sous peu le Sombre
 Portail. Le MJ vous dira quand.
 
 ----
 
-Le //dernier soupir// est ce bref moment entre vie et
-mort. Le temps s’arrête et la Mort apparaît pour
-réclamer une vie. Même ceux qui ne passent
-pas au-delà du Sombre Portail ont un aperçu
-de ce qui pourrait les attendre de l’autre côté :
-les amis et les ennemis du passé, la récompense
-ou le châtiment de leur conduite ou d’autres
-visions encore plus étranges. Tous sont changés
-par ce moment, d’une manière ou d’une autre,
+Le dernier soupir est ce bref moment entre vie et mort. Le temps s’arrête et la Mort apparaît pour réclamer une vie. Même ceux qui ne passent pas au-delà du Sombre Portail ont un aperçu de ce qui pourrait les attendre de l’autre côté :
+les amis et les ennemis du passé, la récompense ou le châtiment de leur conduite ou d’autres visions encore plus étranges. Tous sont changés par ce moment, d’une manière ou d’une autre,
 même ceux qui en réchappent.
 
 Il y a trois résultats à cette action :
@@ -827,11 +811,8 @@ est que la rencontre avec la Mort, réussie ou
 échouée, est un moment important qui doit
 toujours conduire à un changement.
 
-//**MJ** : Moineau, alors que la lame du couteau
-s’enfonce dans tes tripes, le monde disparaît
-et tu te retrouves devant le Sombre Portail
-de la Mort. Lance les dés !\\
-**Moineau** : C’est chaud. J’ai fait 9 !\\
+***MJ** : Moineau, alors que la lame du couteau s’enfonce dans tes tripes, le monde disparaît et tu te retrouves devant le Sombre Portail de la Mort. Lance les dés !  
+**Moineau** : C’est chaud. J’ai fait 9 !  
 **MJ** : La Mort t’apparaît sous forme d’un
 sombre spectre aux vêtements brumeux.
 Une main pâle touche ton visage. Tu entends
@@ -843,12 +824,13 @@ monde à une condition. Dans l’ombre tu
 demeures, ombre tu dois devenir. Fuis la
 lumière du jour à jamais ou reviens vite
 me tenir compagnie. Qu’en dis-tu, petit
-voleur ? »\\
-**Moineau** : heu...
-//
+voleur ? »  
+**Moineau** : heu...*  
+
+
 ----
 
-======Encombrement======
+### Encombrement
 Quand vous tentez une action en
 portant une charge, vous risquez
 d’être encombré. Si le Poids que vous
@@ -875,12 +857,11 @@ effectivement accomplir dans la fiction.
 
 ----
 
-======Monter un camp======
+### Monter un camp
 Quand vous vous installez pour vous
 reposer, dépensez une ration. Si vous êtes
 dans un endroit dangereux, attribuez des
-tours de garde. Si vous avez assez de points
-d’expérience, vous pouvez //monter de niveau.//
+tours de garde.
 Lorsque vous vous réveillez après quelques
 heures de sommeil ininterrompu, récupérez
 la moitié de votre maximum de PV.
@@ -904,7 +885,8 @@ un repas ou que l’on vous héberge.
 
 ----
 
-======Tour de garde (SAG)======
+### Tour de garde (SAG)
+
 Quand c’est votre //tour de garde// et que
 quelque chose approche du camp, lancez
 2d6+SAG.\\
@@ -922,10 +904,7 @@ feu de camp vous tombe dessus.
 
 ----
 
-
-----
-
-======Entreprendre un voyage périlleux (SAG)======
+### Entreprendre un voyage périlleux (SAG)
 Quand vous voyagez à travers un
 territoire hostile, désignez un éclaireur,
 un serre-file et un intendant. Chacun
@@ -982,9 +961,9 @@ vous //montez un camp//.
 
 ----
 
-======Fin de session======
-Quand vous finissez une session (soirée)
-de jeu, si vous pensez qu’un de vos liens
+### Fin de scénario
+
+Quand vous finissez un scénario, si vous pensez qu’un de vos liens
 est résolu (vous en avez fait le tour, il
 n’est plus pertinent, ou autre), demandez
 au joueur du PJ lié au vôtre s’il pense
@@ -1006,46 +985,42 @@ Pour chaque oui, chaque PJ marque 1 PX.
 
 ----
 
-----
-======Monter de niveau======
+### Monter de niveau
+
 Quand vous avez du temps libre devant
-vous (heures ou jours) et que le nombre
+vous (plusieurs jours) et que le nombre
 de vos PX est égal ou supérieur à votre
 niveau +7, vous tirez les leçons de vos
 aventures et améliorez vos talents :
   * soustrayez votre niveau +7 de vos PX,
   * augmentez votre niveau de 1,
-  * choisissez une nouvelle action avancée de votre classe,
+  * Gagnez 1 PV
+  * choisissez une nouvelle action avancée de votre classe
   * si vous êtes Magicien, ajoutez un sort à votre grimoire,
-  * augmentez d’un point l’une de
-vos caractéristiques et augmentez
-son ajustement si nécessaire.
-Augmenter le score de CON
-augmente aussi le nombre de points
-de vie. Aucune caractéristique ne
-peut dépasser 18.
+  * augmentez d’un point l’une de vos caractéristiques et augmentez son ajustement si nécessaire.
+
+Augmenter le score de CON augmente aussi le nombre de points
+de vie. Aucune caractéristique ne peut dépasser 18.
+Une fois dans votre carrière au dela du niveau 1, et en fonction de l'histoire vous pouvez choisir un archétype selon le class Warfare
 
 ----
 
-----
-
-======Ripailler======
+### Ripailler 
 Quand vous revenez triomphants et
 organisez une grande fête, dépensez
 au moins 100 Po et lancez 2d6+1 par
-tranche de 100 Po supplémentaires. Sur
-10+, choisissez 3. Sur 7-9, choisissez
-1. Sur 6-, choisissez 1 mais les choses
-dérapent franchement (le MJ vous dira
+tranche de 100 Po supplémentaires.
+
+* Sur 10+, choisissez 3
+* Sur 7-9, choisissez1.
+* Sur 6-, choisissez 1 mais les choses dérapent franchement (le MJ vous dira
 comment).
   * Vous vous liez d’amitié avec un PNJ utile.
   * Vous apprenez des rumeurs sur une opportunité.
   * Vous recevez des informations utiles.
   * Vous ne vous faites pas embrouiller, ensorceler ou duper.
 
-----
-
-Vous ne pouvez //ripailler// que lorsque votre
+Vous ne pouvez **ripailler** que lorsque votre
 groupe revient triomphant. Seule la bonne
 fortune des aventuriers est susceptible d’attirer
 la foule des fêtards. Si vous n’annoncez pas
@@ -1055,7 +1030,7 @@ de toute façon ?
 
 ----
 
-======Achats======
+### Achats
 Lorsque vous allez acheter quelque
 chose avec la bourse pleine, vous
 pouvez l’obtenir au prix du marché, si
@@ -1063,31 +1038,28 @@ c’est habituellement vendu là où vous
 vous trouvez. Si c’est quelque chose de
 spécial, d’inhabituel ou au-delà de ce
 qui est normalement disponible, lancez
-2d6+CHA. Sur un 10 +, vous trouvez ce
-que vous cherchez à un bon prix. Sur un
-7-9, vous aurez à payer plus ou à vous
-contenter de quelque chose qui n’est pas
-exactement ce que vous désiriez. Le MJ
-vous dira quelles sont vos options.
+2d6+CHA.
+* Sur un 10 +, vous trouvez ce que vous cherchez à un bon prix.
+* Sur un 7-9, vous aurez à payer plus ou à vouscontenter de quelque chose qui n’est pas
+exactement ce que vous désiriez. Le MJ vous dira quelles sont vos options.
 
 ----
 
-----
 
-======Récupérer======
+### Récupérer
 Vous récupérez tous vos PV au bout d’un
-jour à vous reposer confortablement en
+jour à vous reposer confortablement et en
 sécurité. Après trois jours, vous retirez
 un handicap de votre choix. Si l’on vous
 prodigue des soins (magiques ou non)
 durant ce repos, vous retirez un handicap
 tous les deux jours au lieu de trois.
 
-----
+
 
 ----
 
-======Recruter======
+### Recruter
 Quand vous faites savoir que vous
 cherchez à embaucher du renfort, lancez
 2d6 :
@@ -1114,15 +1086,14 @@ suivre pour //recruter// de nouveau.
 
 ----
 
-----
 
-======Avis de recherche======
+### Avis de recherche
+
 Lorsque vous revenez dans un endroit
 civilisé où vous avez causé des ennuis
-auparavant, tirez les dés +CHA. Sur un
-10 +, le récit de vos « exploits » s’est
-répandu et tout le monde vous reconnaît.
-Sur un 7-9, comme ci-dessus, et le MJ
+auparavant, tirez les dés +CHA.
+* Sur un 10 +, le récit de vos « exploits » s’est répandu et tout le monde vous reconnaît.
+* Sur un 7-9, comme ci-dessus, et le MJ
 choisit une complication :
   * La police locale a lancé un avis de recherche à votre  encontre.
   * Quelqu’un a mis votre tête à prix.
@@ -1146,14 +1117,15 @@ compte aussi.
 
 ----
 
-======Préparation======
+### Préparation
+
 Lorsque vous passez votre temps
 libre à l’étude, la méditation ou à un
 entraînement intensif, vous gagnez de
-la préparation. Si vous vous préparez
-pendant une semaine ou plus, gagnez
-1 préparation. Si vous vous préparez
-pendant un mois ou plus, gagnez-en 3.
+la préparation.
+* Si vous vous préparez pendant une semaine ou plus, gagnez 1 préparation.
+* Si vous vous préparez pendant un mois ou plus, gagnez-en 3.
+
 Lorsque votre entraînement se révèle
 payant, dépensez 1 préparation pour
 ajouter +1 à un jet de dés. Vous ne pouvez
