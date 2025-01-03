@@ -139,8 +139,7 @@ Votre maximum de points de vie est égal à:
 
 Vous commencez avec vos PV au maximum.
 
-//Une base de 4 plus 9 de constitution me
-donne un résultat époustouflant de 4 PV.//
+*Une base de 4 avec 9 de constitution me donne un résultat époustouflant de 4 PV.*
 
 ## 8. Choisissez vos actions de départ 
 
