@@ -340,7 +340,7 @@ cible dans le blanc de l’œil.
 Longue : arme efficace tant que votre cible est à
 portée de voix.
 
-=====Liste des armes=====
+===== Liste des armes=====
 Les caractéristiques suivantes valent pour des
 armes ordinaires. Il existe bien sûr des variations.
 Une épée longue de qualité médiocre pourra
