@@ -30,14 +30,14 @@ ennemie. Sur 7-9, vous infligez vos dégâts
 
 ----
 
-//Tailler en pièces// sert lorsqu’on attaque un
+*Tailler en pièces* sert lorsqu’on attaque un
 ennemi sur ses gardes, c’est tout. Si l’ennemi
 ne s’attend pas à votre attaque, s’il ne sait pas
 que vous êtes là, ou alors s’il est entravé ou sans
-défense, vous n’utiliserez pas //tailler en pièces//.
+défense, vous n’utiliserez pas *tailler en pièces*.
 Vous infligerez vos dégâts d’office ou vous
 l’éliminerez aussitôt selon la situation. Comme
-ça, directement.\\
+ça, directement.  
 La contre-attaque de l’ennemi peut être
 n’importe quelle action du MJ en rapport avec
 l’adversaire. Un gobelin peut juste rendre
@@ -51,16 +51,16 @@ Attaquer avec une simple épée un dragon aux
 écailles métalliques de plusieurs centimètres
 d’épaisseur, bourrées d’énergie magique, c’est
 comme frapper un char d’assaut avec un hachoir
-à viande : c’est sans effet. //Tailler en pièces// ne
-s’applique donc pas dans ce cas.\\
+à viande : c’est sans effet. *Tailler en pièces* ne
+s’applique donc pas dans ce cas.  
 Notez que les circonstances peuvent changer ça.
 Si vous parvenez à vous glisser sous le ventre
 mou du dragon pour le frapper (bonne chance
 pour y arriver), vous pourriez le blesser et, dans
-ce cas, c’est une attaque.\\
+ce cas, c’est une attaque.  
 Si l’action peut raisonnablement blesser plusieurs
 cibles à la fois, on inflige les dégâts à chaque cible
-(on tiendra compte de l’armure de chacune).\\
+(on tiendra compte de l’armure de chacune).  
 Certaines attaques peuvent avoir des effets
 supplémentaires en fonction des conditions de
 déclenchement, des circonstances ou des armes
@@ -68,15 +68,15 @@ concernées. Une attaque peut aussi renverser
 un adversaire, l’entraver, ou laisser une grande
 éclaboussure sanglante.
 
-//**MJ** : Jarl, ta passion pour les gobelins va être
+***MJ** : Jarl, ta passion pour les gobelins va être
 satisfaite. Ils t’ont encerclé, dagues en main.
-Que fais-tu ?\\
+Que fais-tu ?  
 **Jarl** : Ça suffit ! Je cogne le plus proche avec
-mon marteau.\\
+mon marteau.  
 **MJ** : Ok. C’est de toute évidence un combat, tu
-utilises tailler en pièces. Lance les dés +FOR.\\
+utilises tailler en pièces. Lance les dés +FOR.  
 **Jarl** : Ça fait 11. Il est marqué que je peux
-ajouter des dégâts. Prenez-ça bande de rats !\\
+ajouter des dégâts. Prenez-ça bande de rats !  
 **MJ** : Tu écrases le gobelin de plus proche et tu
 entends avec satisfaction le bruit de ses os qui
 craquent. Il réplique néanmoins d’un coup de
@@ -84,13 +84,13 @@ couteau et t’inflige 4 PV. Que fais-tu ?
 
 **MJ** : Cadeus, comme tu es dissimulé dans
 l’ombre, tu as l’avantage sur ces guerriers
-orcs.\\
+orcs.  
 **Cadeus** : Je bondis et je donne un grand coup
-d’épée circulaire. Comme ça... Ouahh !\\
+d’épée circulaire. Comme ça... Ouahh !  
 **MJ** : Ah, ils ne s’attendaient pas à ça, ils
 sont pris totalement au dépourvu et tu en
-découpes un. Lance les dégâts.\\
-**Cadeus** : Je fais 6 dégâts.\\
+découpes un. Lance les dégâts.  
+**Cadeus** : Je fais 6 dégâts.  
 **MJ** : L’orc s’effondre dans une mare de sang !
 Le deuxième orc s’arrête et, en te voyant, fait
 une horrible grimace tout en soufflant dans
@@ -98,12 +98,12 @@ son cor pour sonner l’alerte. Que fais-tu ?
 
 **MJ** : Thelian, tu as enfin à ta merci Finbar
 le Magnifique, le plus puissant duelliste du
-pays, complètement désarmé.\\
+pays, complètement désarmé.  
 **Thelian** : « Je ne te laisserai pas me trahir à
-nouveau, Finbar ! » Je l’embroche.\\
+nouveau, Finbar ! » Je l’embroche.  
 **MJ** : Ok, c’est un tailler en pièces. Jette les
-dés +FOR.\\
-**Thelian** : Si tu le dis... Ça fait 7.\\
+dés +FOR.  
+**Thelian** : Si tu le dis... Ça fait 7.  
 **MJ** : D’accord, tu lui passes ton épée à travers
 le corps, parce qu’il ne peut même pas se
 défendre et... euh, attends. En fait, ce n’est
@@ -112,7 +112,7 @@ Oublie tailler en pièces. Il est foutu, c’est
 tout. Il s’effondre au sol et crache du sang,
 mais à ce moment-là l’alerte retentit. Que
 fais-tu ?
-//
+*
 
 ----
 
@@ -128,39 +128,39 @@ une option :
 
 ----
 
-//Salve// correspond à une séquence de tir
+*Salve* correspond à une séquence de tir
 complète, à savoir, préparer une arme de jet ou
 de lancer, viser puis tirer. L’avantage d’utiliser
 une arme à distance, c’est que l’attaquant est
 moins susceptible de prendre des coups en
 retour. Évidemment, il faut quand même avoir
-une ligne de tir et des munitions.\\
+une ligne de tir et des munitions.  
 Sur un 7-9, il faut lire « danger » au sens large.
 Cela peut être une chute ou se trouver sur la
 trajectoire d’une épée ou encore révéler sa
 cachette à ses ennemis. Quoi qu’il en soit, ce
 danger est imminent et obligera toujours le MJ
-à demander : « Que fais-tu ? »\\
-Assez souvent, cela vous amènera à //défier le
-danger// pour l’éviter.\\
+à demander : « Que fais-tu ? »  
+Assez souvent, cela vous amènera à *défier le
+danger* pour l’éviter.  
 Si vous lancez quelque chose qui n’a pas de
 munitions (peut-être avez-vous une action qui
 vous permet de lancer votre bouclier), vous ne
 pouvez pas choisir d’en effacer une. Dans ce cas
 vous n’avez accès qu’aux deux autres options.
 
-//**Aranwe** : Donc, si je comprends bien, je suis
+***Aranwe** : Donc, si je comprends bien, je suis
 en bas tandis que le prêtre orc scande son
 rituel en haut du balcon ? Bon, pendant que
 Brianne s’occupe des autres, je vise le prêtre
-et je tire.\\
-**MJ** : C’est bon, pour moi c’est une salve.\\
+et je tire.  
+**MJ** : C’est bon, pour moi c’est une salve.  
 **Aranwe** : Zut, ça fait 8. Bon, mes munitions
 sont bientôt à sec, et je ne suis pas mieux
 niveau PV. Je préfère tirer au jugé. Je tire les
 dégâts et ensuite je soustrais le résultat d’un
 d6, c’est ça ? Ça fait 3. Est-ce suffisant pour
-le distraire, au moins ?\\
+le distraire, au moins ?  
 **MJ** : Bien sûr ! La flèche s’enfonce dans la
 cuisse du prêtre et il hurle de douleur, ce
 qui interrompt le rituel momentanément.
@@ -172,21 +172,21 @@ salle commence à s’effriter. Que fais-tu ?
 
 **Halek** : Des kobolds et un ogre ? S’ils viennent
 me chercher, je les accueille à coups de
-flèches. Je vise la foule. 2d6+DEX, ça fait 8.\\
+flèches. Je vise la foule. 2d6+DEX, ça fait 8.  
 **MJ** : Qu’est-ce que tu choisis ? Danger ou
-munitions ?\\
-**Halek** : Je me mets en danger.\\
+munitions ?  
+**Halek** : Je me mets en danger.  
 **MJ** : Bon, les kobolds se ruent sur toi et tu
-parviens à en toucher un.\\
-Les autres continuent d’approcher.\\
+parviens à en toucher un.  
+Les autres continuent d’approcher.  
 Tu réalises que tu as perdu l’ogre de vue. Il te
-fracasse avec son gourdin et tu prends 12 dégâts !\\
-**Halek** : 12 dégâts ? C’est ça le danger ?\\
+fracasse avec son gourdin et tu prends 12 dégâts !  
+**Halek** : 12 dégâts ? C’est ça le danger ?  
 **MJ** : Tu as raison, c’est plus qu’un danger.
 Bon, en fait tu n’es pas encore écrabouillé.
 L’ogre se glisse derrière toi et balance son
 gourdin pour t’exploser la tête. Que fais-tu ?
-//
+*
 
 ----
 
@@ -210,109 +210,109 @@ pénible ou un choix désagréable.
 
 ----
 
-Vous //défiez le danger// lorsque vous faites
+Vous *défiez le danger* lorsque vous faites
 quelque chose face à un péril imminent. Cela
 ressemble à une action fourre-tout et ça l’est !
-//Défier le danger// est faite pour les situations où
+*Défier le danger* est faite pour les situations où
 vous sentez bien qu’il faut jeter les dés mais où
-aucune autre action ne paraît correspondre.\\
-//Défier le danger// s’applique également lorsque
+aucune autre action ne paraît correspondre.  
+*Défier le danger* s’applique également lorsque
 vous effectuez une autre action en dépit de
 risques non prévus par cette action. Par exemple,
-//tailler en pièces// suppose que vous échangiez des
+*tailler en pièces* suppose que vous échangiez des
 coups au cours d’une bataille. Vous n’avez pas
-besoin de //défier le danger// pour combattre le
+besoin de *défier le danger* pour combattre le
 monstre, à moins qu’un danger étranger à votre
-attaque ordinaire se présente.\\
-Par exemple, si vous //taillez en pièces// alors qu’un
+attaque ordinaire se présente.  
+Par exemple, si vous *taillez en pièces* alors qu’un
 piège se déclenche et propulse des fléchettes par
 des trous dans le mur, ces fléchettes sont un
 tout autre danger.
 
 Par danger, il faut comprendre ici toute chose
 qui nécessite de la résistance, de la concentration
-ou de l’équilibre.\\
+ou de l’équilibre.  
 Cette action est généralement sollicitée par le
 MJ qui vous dira en quoi consiste le danger au
-moment où vous accomplissez l’action.\\
-Quelque chose comme « Il te faudra //défier le
-danger// d’abord. Le danger est le sol incliné et
+moment où vous accomplissez l’action.  
+Quelque chose comme « Il te faudra *défier le
+danger* d’abord. Le danger est le sol incliné et
 gelé sur lequel tu cours. Si tu réussis à rester
 debout tu parviendras à la porte avant que le
 nécromancien ne t’atteigne avec son sort. »
 
 Ce que vous faites détermine la caractéristique
 mise en œuvre dans l’action. Cela signifie que
-vous ne pouvez pas //défier le danger// de ce sol
+vous ne pouvez pas *défier le danger* de ce sol
 incliné et gelé avec un charmant sourire de
 manière à pouvoir utiliser votre CHA, car
 sourire à ce sol gelé n’y changera rien. Sauter
-par-dessus le plancher gelé nécessitera de //défier
-le danger// avec FOR, tandis qu’y progresser
+par-dessus le plancher gelé nécessitera de *défier
+le danger* avec FOR, tandis qu’y progresser
 prudemment se fera à l’aide de DEX.
 
-//**MJ** : Erwin, alors que tu grimpes la paroi
+***MJ** : Erwin, alors que tu grimpes la paroi
 du ravin, tu aperçois un adorateur sur une
 corniche qui lance un sort pour couvrir de
 glace toute la falaise. Si tu veux poursuivre
 ton escalade tu devras défier le danger au
-risque de tomber.\\
+risque de tomber.  
 **Erwin** : Ça va, je suis costaud. Je serre les
 dents et je plante mes ongles dans la paroi,
 en n’utilisant qu’une main après l’autre.
-J’utilise CON, c’est ça ? Ça fait 8.\\
+J’utilise CON, c’est ça ? Ça fait 8.  
 **MJ** : Hmm, bon. La seule manière de grimper
 les derniers mètres est d’utiliser ta dague
 comme piton, mais tu ne pourras plus la
 déloger une fois plantée. Tu pourras essayer
 quand tu auras un peu de temps devant
 toi. Pour le moment le lanceur de sort est
-toujours menaçant sur sa corniche.\\
+toujours menaçant sur sa corniche.  
 **Erwin** : Je pourrai toujours racheter une
 dague à mon retour. Il est temps d’achever
 cette ascension et l’adorateur !
 
 **MJ** : L’athach te balance son troisième bras
 costaud armé d’une branche cassée. Que
-fais-tu Valéria ?\\
+fais-tu Valéria ?  
 **Valéria** : Ah tiens, il veut se battre, hein ?
 D’accord. Je le taille en pièces en lui donnant
-un coup d’épée aux jambes.\\
+un coup d’épée aux jambes.  
 **MJ** : Attends un peu, championne. Tu es
 déjà en position désavantageuse car il te
 maintient à distance. Pour arriver au contact
 il te faut d’abord défier le danger sinon tu
-prendras le coup de massue.\\
+prendras le coup de massue.  
 **Valéria** : Pff, personne ne rivalise avec Valéria
 la rouge ! Je saute de côté comme une feuille
 dans le vent, puis je commence à le tailler
-en pièces.\\
+en pièces.  
 **MJ** : Défie le danger avec la DEX, s’il te plaît.
 
 **Octavia** : J’en ai marre de cet ogre, je laisse
 tomber mon bouclier et je prends mon
 marteau à deux mains. C’est tailler en
-pièces, non ?\\
+pièces, non ?  
 **MJ** : Tu laisses tomber ton bouclier ? Ce
 n’est pas une très bonne idée. Il va te falloir
 défier le danger pour éviter que l’ogre ne
-t’envoie valser.\\
+t’envoie valser.  
 **Octavia** : Tu es sûr ? Ce n’est pas tailler
 en pièces ? Quand on échange des coups
-et tout ça ?\\
+et tout ça ?  
 **MJ** : Oui, bien sûr. J’ai besoin d’une tasse
 de café. Oui, c’est tailler en pièces. Lance
 les dés !
-//
+*
 
 ----
 
 ### Défendre (CON)
-Quand vous //défendez// une personne, un
+Quand vous *défendez* une personne, un
 objet ou un endroit d’une attaque, lancez
 2d6+CON.
 Sur 10+, retenez 3. Sur 7-9, retenez 1.
-Aussi longtemps que vous //défendez//, dès
+Aussi longtemps que vous *défendez*, dès
 lors que vous (ou ce que vous protégez)
 subissez une attaque, vous pouvez
 dépenser 1 pour choisir l’une des options
@@ -324,15 +324,15 @@ suivantes :
 
 ----
 
-//Défendre// quelque chose signifie se trouver à
+*Défendre* quelque chose signifie se trouver à
 proximité et tout faire pour éviter les attaques
 contre cette chose ou empêcher quiconque de
 s’en approcher. Lorsque vous n’êtes plus proche
 ou que vous cessez de vous occuper des menaces
 qui surviennent, vous perdez les retenues que
-vous pouviez encore avoir.\\
+vous pouviez encore avoir.  
 Vous ne pouvez dépenser une retenue que
-lorsque vous ou ce que vous //défendez// est la cible
+lorsque vous ou ce que vous *défendez* est la cible
 d’une attaque.
 
 Les choix que vous pouvez faire dépendent de
@@ -348,8 +348,8 @@ Si l’attaque n’inflige pas de dégâts, la réduire de
 moitié signifie que l’attaquant n’obtient pas le
 résultat escompté, mais seulement une partie.
 C’est à vous et au MJ de décider ce que cela
-signifie selon les circonstances.\\
-Si vous //défendez// l’Œil de Oro-Uht et qu’un
+signifie selon les circonstances.  
+Si vous *défendez* l’Œil de Oro-Uht et qu’un
 orc tente de l’arracher de son socle, diminuer
 cette attaque de moitié pourrait signifier que le
 bijou tombe par terre et que l’orc n’a pas encore
@@ -364,27 +364,27 @@ vous ne pouvez pas choisir cette option.
 Se défendre soi-même revient à renoncer à
 attaquer et essayer seulement d’éviter le danger.
 
-//
+*
 **MJ** : Avon, tu commences à incanter ton sort
 pour repousser le fantôme du nécromancien
 au-delà du portail, mais les zombies se ruent
-sur toi.\\
+sur toi.  
 **Lux** : Ne t’inquiète pas Avon, je te protègerai !
 Pendant qu’Avon lance son sort, je jure de
 le protéger. Je frappe mon bouclier avec
 mon marteau et je hurle « si vous voulez
 l’atteindre, il faudra me passer dessus
-avant ! » Je veux le défendre.\\
-**MJ** : Quel enthousiasme ! Lance tes dés +CON.\\
-**Lux** : Ça fait 11, je retiens 3, c’est ça ?\\
+avant ! » Je veux le défendre.  
+**MJ** : Quel enthousiasme ! Lance tes dés +CON.  
+**Lux** : Ça fait 11, je retiens 3, c’est ça ?  
 **Avon** : Je pense que tu vas vite t’en servir,
 Lux. J’ai fait 8 sur mon lancer de sort et je
-choisis de m’exposer au danger.\\
+choisis de m’exposer au danger.  
 **MJ** : D’accord. Les zombies sont attirés par la
 perturbation magique et se dirigent sur toi
 en titubant. Tu es cerné maintenant, ils sont
-partout ! Que fais-tu ?\\
-**Avon** : Euh... « Au secours ! »\\
+partout ! Que fais-tu ?  
+**Avon** : Euh... « Au secours ! »  
 **Lux** : Je m’en occupe. Je dépense une retenue
 pour rediriger une attaque sur moi. Je pousse
 Avon de côté et je laisse toute la puissance
@@ -397,23 +397,23 @@ mais mon dieu nous protègera !
 
 **MJ** : Bon, Hadrian, tu as défendu Durga
 pendant qu’elle guérissait Thelian et à
-présent il va mieux. Que faites-vous ?\\
+présent il va mieux. Que faites-vous ?  
 **Durga** : Je bondis en avant pour repousser les
-troglodytes !\\
-**Hadrian** : Moi, je vais me frotter au crocodile.\\
+troglodytes !  
+**Hadrian** : Moi, je vais me frotter au crocodile.  
 **MJ** : D’accord. Durga, les troglodytes
-viennent vers toi avec leurs gourdins.\\
+viennent vers toi avec leurs gourdins.  
 **Hadrian** : Pas question, j’ai encore une
 retenue et je la dépense pour rediriger
-l’attaque sur moi.\\
+l’attaque sur moi.  
 **MJ** : Sauf que vous êtes séparés. Comment
 vas-tu faire ça si tu es à 20 mètres ? Tu as
 perdu ta retenue quand tu as attaqué le
-croco.\\
+croco.  
 **Hadrian** : Mouais, je suppose que je ne
 défends plus grand chose là. Tant pis, te voilà
 toute seule Durga !
-//
+*
 
 ----
 
@@ -430,12 +430,12 @@ de suite la vérité.
 
 ----
 
-Vous //étalez votre science// à chaque fois que vous
+Vous *étalez votre science* à chaque fois que vous
 cherchez à vous rappeler d’informations ou de
 faits à propos de quelque chose. Vous prenez un
 moment pour réfléchir sur ce que vous savez
 sur les tribus orques ou la Tour de Ul’dammar,
-puis vous révélez ce savoir.\\
+puis vous révélez ce savoir.  
 Vous obtenez des connaissances comme si vous
 aviez consulté un bestiaire, un guide de voyage,
 voire une bibliothèque. Vous obtenez des faits
@@ -444,55 +444,55 @@ sur le sujet.
 Sur un 10 + le MJ va vous indiquer comment
 ces faits peuvent être immédiatement utiles
 alors que sur un 7-9 il se contentera juste de
-vous les révéler.\\
+vous les révéler.  
 Sur un échec, l’action du MJ prendra souvent
 compte du temps que vous avez passé à réfléchir.
 Peut-être n’avez-vous pas remarqué ce gobelin
 qui s’est glissé derrière vous, ou le piège à con
 dans le couloir. C’est aussi une belle occasion de
-//révéler une vérité indésirable//.
+*révéler une vérité indésirable*.
 
 Juste au cas où cela ne serait pas clair, les
 réponses sont toujours vraies, même si le MJ a
 dû les improviser sur le moment.
 
-//**Fenfaril** : Le sol était illusoire ? Saletés de
-gnomes.\\
+**Fenfaril** : Le sol était illusoire ? Saletés de
+gnomes.  
 **MJ** : Hé, oui. Tu es dans une fosse obscure,
 et il y a une forme humanoïde sombre,
 tachetée et sans yeux qui se déplace vers toi
-en marmonnant.\\
+en marmonnant.  
 **Fenfaril** : Une forme qui marmonne,
 hein ? C’est quoi ce truc ? Est-ce que ça va
 m’attaquer ? Je suis sûr que j’ai lu quelque
-chose là-dessus ! Peut-être à l’académie ?\\
-**MJ** : Ça se pourrait. Etale ta science !\\
+chose là-dessus ! Peut-être à l’académie ?  
+**MJ** : Ça se pourrait. Etale ta science !  
 **Fenfaril** : Ô cerveau, révèle-moi tes
-connaissances ! J’ai fait 8.\\
+connaissances ! J’ai fait 8.  
 **MJ** : Oui, bien sûr, tu connais cette chose.
 Son nom t’échappe mais tu te souviens bien
 avoir vu un dessin d’une créature semblable.
 Elle était dans un couloir et gardait quelque
 chose. Tu sais qu’il y a un truc pour l’obliger
 à te laisser passer, mais tu ne te souviens
-plus quoi.\\
+plus quoi.  
 **Fenfaril** : Évidemment, j’avais la gueule de
 bois ce jour-là. J’ai toujours été un mauvais
 étudiant. Un truc, tu dis ? Mmmm...
 
 **Vitus** : J’ai fait 10 pour étaler ma science à
-propos de ce crâne doré.\\
+propos de ce crâne doré.  
 **MJ** : Tu es presque sûr de reconnaître
-l’orfèvrerie de Dis, la ville vivante.\\
-**Vitus** :... et ? J’ai fait 10 !\\
+l’orfèvrerie de Dis, la ville vivante.  
+**Vitus** :... et ? J’ai fait 10 !  
 **MJ** : Ah, oui, c’est vrai. Tu reconnais quelques
 glyphes en particulier. Ils sont en Efrit et
 désignent un sort de feu, mais ils sont différents,
 une sorte de magie de transmutation. Je parie
 que si tu lances un sort sur le crâne, il va le
-transformer en un sort de feu.\\
+transformer en un sort de feu.  
 **Vitus** : Un projectile magique de feu, cool !
-//
+
 ----
 
 ### Discerner la réalité (SAG)
@@ -511,13 +511,13 @@ tient compte de la réponse.
 
 ----
 
-Pour //discerner la réalité//, vous devez observer
+Pour *discerner la réalité*, vous devez observer
 attentivement votre cible. Cela signifie
 généralement interagir avec elle ou regarder
 quelqu’un d’autre faire la même chose.
 
 Vous ne pouvez pas juste passer votre tête dans
-une pièce et y //discerner la réalité//. Cela ne se
+une pièce et y *discerner la réalité*. Cela ne se
 limite pas à rechercher des indices. Vous devez
 inspecter attentivement les choses, sonder les
 murs et vérifier les marques bizarres dans la
@@ -528,13 +528,13 @@ d’ensemble.
 Le MJ décrit toujours franchement ce que les
 PJ vivent. Par exemple, au cours d’un combat,
 il décrira que le mage gobelin reste immobile
-de l’autre côté de la pièce. //Discerner la réalité//
+de l’autre côté de la pièce. *Discerner la réalité*
 pourrait révéler la raison derrière cela : les
 mouvements du gobelin montrent qu’il ne peut
 pas approcher plus près car il tire son énergie de
 la pièce derrière lui.
 
-Tout comme pour //étaler sa science//, les réponses
+Tout comme pour *étaler sa science*, les réponses
 que vous obtenez sont toujours franches, même si
 le MJ doit les improviser sur le moment. Une fois
 la réponse obtenue, elle est gravée dans le marbre.
@@ -544,41 +544,41 @@ le contraire, les joueurs ne peuvent poser des
 questions qu’à partir de la liste. Si un joueur pose
 une question qui ne se trouve pas dans la liste, le MJ
 peut soit lui dire d’essayer de nouveau, soit répondre
-à une question de la liste qui semble équivalente.\\
+à une question de la liste qui semble équivalente.  
 Bien sûr, certaines questions peuvent avoir une
 réponse négative, c’est possible. Si vraiment
 il n’y a rien d’utile ou de précieux ici, le MJ
 répondra sans doute à cette question en disant
 « Rien, désolé. »
 
-//**Omar** : Cette pièce ne me dit rien qui vaille.
+**Omar** : Cette pièce ne me dit rien qui vaille.
 Je vais fouiner un peu. Je prends mes outils
 et je commence à farfouiller. Je tire sur les
 chandeliers et je tapote les murs avec mon
-marteau. Les trucs habituels, quoi.\\
-**MJ** : Tu discernes la réalité ?\\
+marteau. Les trucs habituels, quoi.  
+**MJ** : Tu discernes la réalité ?  
 **Omar** : Oh oui. Je discerne toutes les réalités.
 J’ai fait 12. Je veux savoir « Qu’est-ce qui
-n’est pas ce qu’il paraît être ici ? »\\
+n’est pas ce qu’il paraît être ici ? »  
 **MJ** : Eh bien, c’est évident pour toi qu’il y a
 un endroit creux dans le mur, sur le côté nord
 de la salle. Les pierres sont plus récentes et
 le mortier est plus frais, probablement une
-alcôve cachée ou un passage.\\
+alcôve cachée ou un passage.  
 **Omar** : Je veux poser une autre question.
-« Qui a muré la pièce ? »\\
+« Qui a muré la pièce ? »  
 **MJ** : Ce n’est pas sur la liste, donc je vais faire
 comme si tu m’avais demandé « Que s’est-il passé
 ici récemment ? » En regardant la maçonnerie,
 tu remarques que le mur n’est pas d’aplomb par
 endroits. C’est vraiment bâclé et ça ressemble à du
 travail de gobelin. Mais bon, la façon dont il penche
-indique que quelque chose pousse de l’intérieur.\\
+indique que quelque chose pousse de l’intérieur.  
 **Omar** : Donc, soit les gobelins ont muré la
 pièce depuis l’autre côté, soit il y a quelque
-chose là-dedans qui a essayé de sortir.\\
+chose là-dedans qui a essayé de sortir.  
 **MJ** : Tout à fait !
-//
+
 
 ----
 
@@ -594,28 +594,28 @@ que vous tiendrez parole.
 
 ----
 
-//Négocier// couvre une grande quantité de
+*Négocier* couvre une grande quantité de
 situations y compris la classique intimidation
-ou la diplomatie.\\
-Vous //négociez// lorsque vous tentez d’obtenir
+ou la diplomatie.  
+Vous *négociez* lorsque vous tentez d’obtenir
 que quelqu’un fasse quelque chose pour vous en
 usant d’une promesse ou d’une menace. Votre
 moyen de pression peut être vil ou aimable,
-c’est sans importance.\\
-Solliciter quelqu’un poliment n’est pas //négocier//.
+c’est sans importance.  
+Solliciter quelqu’un poliment n’est pas *négocier*.
 Vous demandez « Puis-je avoir cette épée
 magique ? » et Sire Telric répond « Allez au
 diable, c’est ma lame, mon père l’a forgée et ma
 mère l’a enchantée ». Voilà.
 
-Pour //négocier//, vous devez avoir un moyen de
-pression ou une monnaie d’échange.\\
+Pour *négocier*, vous devez avoir un moyen de
+pression ou une monnaie d’échange.  
 Le moyen de pression est tout ce qui pourrait
 amener votre cible à faire quelque chose pour
 vous. Peut-être s’agit-il de quelque chose
 qu’elle désire. Peut-être quelque chose qu’elle
 ne souhaite pas que vous fassiez. Comme une
-bourse d’or ou lui refaire le portrait.\\
+bourse d’or ou lui refaire le portrait.  
 Le moyen de pression dépend des personnes
 impliquées et de la demande. Vous disposez d’un
 moyen de pression lorsque vous menacez de mort un
@@ -628,17 +628,17 @@ tenez devant quelqu’un en aiguisant votre couteau
 et en lui faisant comprendre que vous pourriez bien
 lui faire la peau, il pourrait vous demander de le
 laisser partir. Si vous utilisez votre rang plus élevé
-à la cour, on pourrait vous demander une faveur.\\
+à la cour, on pourrait vous demander une faveur.  
 Quoi qu’on vous demande, sur un 10+, il vous suffit
 de le promettre clairement et sans ambiguïté. Sur
 un 7-9, ce n’est pas suffisant, il faut aussi donner
 certaines garanties, dès maintenant, avant que
-l’on fasse ce que vous voulez.\\
+l’on fasse ce que vous voulez.  
 Par exemple, si vous promettez que vous allez
 assurer la sécurité contre des loups et que vous
 obtenez un 7-9, votre interlocuteur peut déclarer
 qu’il fera sa part lorsque vous apporterez une peau
-de loup fraîchement tué pour prouver vos dires.\\
+de loup fraîchement tué pour prouver vos dires.  
 Notez bien que vous n’avez pas réellement besoin
 de tenir votre promesse. Que vous le fassiez ou
 non, c’est votre choix. Bien sûr, les promesses non
@@ -655,22 +655,22 @@ en tête. Elle peut dire « d’accord, je pars si vous me
 laissez vivre » (avec des garanties, si vous avez fait
 un 7-9) ou « promettez de ne pas me suivre. »
 
-//**Leena** : « Seigneur Hywin, j’ai besoin que
+***Leena** : « Seigneur Hywin, j’ai besoin que
 vous vous portiez garant pour moi sinon la
-reine ne me donnera jamais d’audience »\\
+reine ne me donnera jamais d’audience »  
 **MJ** : Il n’est pas vraiment convaincu. Cela pourrait
 bien nuire à sa réputation si tu fais un faux pas.
 « Pourquoi devrais-je vous aider, Leena ? »
 Leena : Bien, pendant que je lui parle, je joue
 distraitement avec la chevalière de l’assassin
 que nous avons tué. Celui qu’il a embauché
-pour éliminer le prince. Je m’assure qu’il la voit.\\
-**MJ** : Ok. Tu négocies. Lance les dés.\\
-**Leena** : 8...\\
+pour éliminer le prince. Je m’assure qu’il la voit.  
+**MJ** : Ok. Tu négocies. Lance les dés.  
+**Leena** : 8...  
 **MJ** : Il te lance un regard de colère froide. « Nous
 savons tous deux que vous avez tué mon homme
 de main. Donnez-moi la bague, jurez de garder
-le silence et je ferai ce que vous demandez ».\\
+le silence et je ferai ce que vous demandez ».  
 **Leena** : Je la lui lance. On pourra toujours trouver
 de quoi compromettre ce salaud plus tard.
 
@@ -679,7 +679,7 @@ cartes, hein ? Ok, je vais voir les videurs. « Hé
 les gars, ça vous dérangerait d’ouvrir cette
 porte et de me laisser entrer ? » et je leur fais
 du charme pour qu’ils me laissent passer. Je
-négocie +CHA, c’est ça ?\\
+négocie +CHA, c’est ça ?  
 **MJ** : Pas si vite ! Tu t’es contentée de dire ce
 que tu voulais. Un des deux molosses avec
 un air blasé te dit « Désolé, c’est un cercle
@@ -687,20 +687,17 @@ réservé aux membres ». On dirait qu’il déteste
 son travail et qu’il voudrait être ailleurs. Si
 tu veux négocier, tu vas avoir besoin d’une
 monnaie d’échange. Peut-être un pot de vin ?
-//
-
-
 
 ----
-
-
 
 ###  Aider ou gêner (LIEN)
 
 Quand vous aidez ou gênez quelqu’un
 avec qui vous avez un lien, lancez
-2d6+LIEN. Sur 10+, il reçoit, au choix,
-+1 ou -2 à son prochain jet. Sur 7-9, le
+2d6+LIEN ou faite 2d6+{FOR},{DEX},{CON},{INT},{SAG},{CHA} selon ce qui est petinent. Vous devez déclarer votre action **Aider ou gêner** avant que l'action que vous voulez modifier soit résolue, dans le cas contraire, c'est juste une nouvelle *action de base*  
+  - Sur 10+, il reçoit, au choix,
++1 ou -2 à son prochain jet.
+  - Sur 7-9, le
 modificateur est identique mais vous
 vous exposez également au danger, à une
 riposte ou à un coût.
@@ -709,7 +706,7 @@ riposte ou à un coût.
 
 Chaque fois que vous estimez que deux joueurs
 devraient lancer les dés l’un contre l’autre, le
-défenseur devrait //gêner// l’attaquant. Cela ne
+défenseur devrait *gêner* l’attaquant. Cela ne
 veut cependant pas dire qu’on sabote tout à
 chaque fois. Cette action couvre beaucoup de
 situations comme s’opposer à une négociation
@@ -723,27 +720,28 @@ gêne comment elle s’y prend. Elle déclenche
 l’action tant qu’elle peut répondre. Parfois, en
 tant que MJ, vous devrez demander si le joueur
 entend gêner l’autre. En effet, vos joueurs ne
-remarqueront pas toujours qu’ils se //gênent//
+remarqueront pas toujours qu’ils se *gênent*
 mutuellement.
 
-//Aider// est une action un peu plus évidente. Si un
+*Aider* est une action un peu plus évidente. Si un
 joueur peut expliquer comment il en aide un
 autre et que ça tient la route, laissez-le lancer
 les dés.
 
-Peu importe combien de personnes //aident// ou
-//gênent// une action : la cible gagne +1 ou -2 une
+
+Peu importe combien de personnes *aident* ou
+*gênent* une action : la cible gagne +1 ou -2 une
 seule et unique fois. Même si tout le groupe
 d’aventuriers aide à l’attaque d’un ogre, celui
-qui //taille en pièces// ne gagne que +1.
+qui *taille en pièces* ne gagne que +1.
 
-//**MJ** : Ozruk, tu es seul et blessé face à une
+***MJ** : Ozruk, tu es seul et blessé face à une
 meute de chiens de l’enfer. Derrière toi le
 Prince de Lescia se recroqueville, gémissant
-de terreur.\\
+de terreur.  
 **Ozruk** : Je tiens bon et lève mon bouclier.
 Malgré une mort certaine, je ferai mon
-devoir et défendrai le petit prince.\\
+devoir et défendrai le petit prince.  
 **Aronwe** : Je sors de l’ombre et tire mon épée !
 « Tu n’es pas encore mort, nain ! » Je me
 tiens à ses côtés. Je veux l’aider à défendre.
@@ -751,11 +749,10 @@ tiens à ses côtés. Je veux l’aider à défendre.
 vu dans la bataille, Ozruk. Si nous devons
 mourir aujourd’hui, nous mourrons comme
 des frères d’armes ! » Je n’ai pas de liens avec
-lui, mais je veux quand même essayer.\\
+lui, mais je veux quand même essayer.  
 **MJ** : C’est touchant, vraiment. Ok. Lance les
 dés à +0 et si tu réussis, Ozruk aura +1 à sa
 tentative pour défendre. Allons-y !
-//
 
 
 ## Actions spéciales
@@ -846,7 +843,7 @@ déterminé par sa classe et sa FOR. Être capable
 de transporter plus est un avantage évident
 lorsque vous essayez de sortir un trésor d’un
 donjon ou plus simplement lorsque vous pouvez
-y apporter ce dont vous avez besoin.\\
+y apporter ce dont vous avez besoin.  
 Cette action ne s’applique qu’aux objets que l’on
 peut transporter tout en restant capable d’agir.
 Porter un rocher sur le dos ne déclenche pas
@@ -868,13 +865,13 @@ la moitié de votre maximum de PV.
 
 ----
 
-Généralement, vous //montez un camp// pour
+Généralement, vous *montez un camp* pour
 pouvoir accomplir d’autres actions comme
 préparer des sorts ou communier avec votre
 dieu. Ou, plus simplement, passer enfin une
 bonne nuit. Chaque fois que vous vous arrêtez
 pour reprendre votre souffle pendant plus d’une
-heure, vous avez probablement //monté un camp//.
+heure, vous avez probablement *monté un camp*.
 
 L’action s’applique également si vous passez
 une nuit dans une auberge ou une maison. Vous
@@ -887,13 +884,13 @@ un repas ou que l’on vous héberge.
 
 ### Tour de garde (SAG)
 
-Quand c’est votre //tour de garde// et que
+Quand c’est votre *tour de garde* et que
 quelque chose approche du camp, lancez
-2d6+SAG.\\
+2d6+SAG.  
 Sur 10+, vous réveillez tout le monde
 et parvenez à prendre des mesures
 de défense ; chacun gagne +1 sur sa
-prochaine action.\\
+prochaine action.  
 Sur 7-9, votre réaction est un peu tardive.
 Vos compagnons sont réveillés, mais
 n’ont pas eu le temps de se préparer. Ils
@@ -908,7 +905,7 @@ feu de camp vous tombe dessus.
 Quand vous voyagez à travers un
 territoire hostile, désignez un éclaireur,
 un serre-file et un intendant. Chacun
-d’entre eux lance 2d6+SAG.\\
+d’entre eux lance 2d6+SAG.  
 Sur 10+ :
   * l’intendant réduit le nombre de rations nécessaires de 1, 
   * le serre-file réduit le temps nécessaire pour parvenir à destination (le MJ vous dira de combien),
@@ -919,7 +916,7 @@ espéré : le nombre normal de rations
 est consommé, le trajet prend le temps
 escompté et personne ne vous surprend
 (vous ne prenez personne par surprise non
-plus).\\
+plus).  
 Si vous n’attribuez pas un ou plusieurs de
 ces rôles, cela vaut comme si vous aviez fait
 6-: le trajet consomme plus de rations que
@@ -942,7 +939,7 @@ de fournitures utilisées dans une journée. Les
 voyages consomment plus de rations quand ils
 sont longs ou lorsque le déplacement est lent.
 
-Un //voyage périlleux// correspond à tout chemin
+Un *voyage périlleux* correspond à tout chemin
 parcouru entre deux points. Vous ne lancez
 pas les dés pour chaque journée de voyage en
 alternant avec un camp, puis une nouvelle
@@ -952,11 +949,11 @@ Cette action s’applique uniquement lorsque
 vous savez où vous allez. En revanche, lorsque
 vous partez à l’aventure ou errez à la recherche
 de choses intéressantes à découvrir vous
-n’entreprenez pas un //voyage périlleux//.\\
+n’entreprenez pas un *voyage périlleux*.  
 Le MJ vous donne des détails sur votre
 environnement au fur et à mesure que vous le
 découvrez et vous utilisez vos rations lorsque
-vous //montez un camp//.
+vous *montez un camp*.
 
 
 ----
@@ -1082,7 +1079,7 @@ un ennemi déguisé). Embauchez-le et
 acceptez-en les conséquences ou refusez
 la candidature. Si vous refusez une ou
 plusieurs candidatures, vous avez -1 à
-suivre pour //recruter// de nouveau.
+suivre pour *recruter* de nouveau.
 
 ----
 
