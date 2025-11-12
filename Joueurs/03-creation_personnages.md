@@ -73,7 +73,7 @@ correctement, donc je suis maigre.*
 
 ## 5. Répartissez les scores 
 Attribuez les scores suivants à vos caractéristiques :  
-***15, 14, 12, 11, 9, 8***.  
+***15, 14, 12, 12, 10, 8***.  
  
 Commencez par lire les actions de base et les
 actions de départ de votre classe.  
@@ -87,7 +87,7 @@ votre personnage, peut-être quelque chose qui
 complète votre premier choix. Attribuez votre
 14 à la caractéristique utilisée pour cette action.
 Répétez ce processus pour vos scores restant :
-12, 11, 9, 8.
+12, 12, 10, 8.
 
 Une autre méthode, si tout le monde souhaite
 un peu plus de hasard, est de tirer trois d6,

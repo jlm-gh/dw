@@ -1,4 +1,4 @@
-======= Chapitre 2 - Jouer le jeu =======
+# Chapitre 2 - Jouer le jeu
 
 Jouer à Dungeon World c'est avoir une conversation : quelqu'un dit quelque chose, vous répondez, quelqu'un d'autre enchaîne, et ainsi de suite...  
 Il s’agit d’une fiction : le monde dans lequel les personnages évoluent et ce qui s’y passe.  
@@ -10,7 +10,7 @@ actions, vous offrir une opportunité, ou créer une épreuve que vous devrez su
 
  Ce chapitre vous indique comment jouer à Dungeon World. Vous y trouverez des informations sur les règles, comment elles interviennent et contribuent au jeu.
 
-===== Caractéristiques  et ajustements =====
+## Caractéristiques  et ajustements
 
 Les règles ci-après se basent sur les caractéristiques des personnages et les ajustements qui en découlent.
 
@@ -21,7 +21,7 @@ Cet ajustement est indiqué par l’abréviation en trois lettres de la caracté
 
 Pour plus de détails sur les caractéristiques et les ajustements, lisez les règles de création, chapitre 3, page 29.
 
-====== Les actions ======
+## Les actions
 
 La plus petite unité de règles dans Dungeon
 World est l’action. Une action ressemble à ça :
@@ -88,6 +88,7 @@ Certaines actions ont un effet mécanique immédiat, comme infliger des dégâts
 les effets de l’action.
 
 ====Certaines actions...====
+
 ... indiquent d’infliger des dégâts. Cela signifie que vous allez jeter les dés de dégâts de votre classe de personnage ; parfois votre arme ajoutera ou soustraira aussi des dégâts. Vous lancez des dés de dégâts à chaque fois que
 votre attaque est susceptible de blesser votre adversaire. Cela suppose généralement que vous soyez armé, mais vos poings peuvent également être des armes avec l’entraînement adéquat ou si la situation s’y prête.
 
@@ -107,18 +108,20 @@ au jeu et montrer qui votre personnage est réellement. Il suffit de garder en m
 
 Les points d’expérience sont traités en détail page 24.
 
-====== Blessures et soins ======
+## Blessures et soins
 
 Les coupures, les chocs et les blessures mortelles sont des dangers courants que les aventuriers encourent dans Dungeon World.
-Durant la partie, les personnages subiront des dégâts, récupèreront de leurs blessures et, le cas échéant, mourront. La santé d’un personnage se mesure à l’aide de points de vie (abrégés PV). Les dégâts sont soustraits des PV. Les dégâts sont soignés et les PV récupérés dans les conditions ad hoc ou par des soins médicaux ou magiques.
+Durant la partie, les personnages subiront des dégâts, récupèreront de leurs blessures et, le cas échéant, mourront. La santé d’un personnage se mesure à l’aide de points de vie (abrégés PV). Les dégâts sont soustraits des PV. Les dégâts et les PV récupérés dans les conditions ad hoc ou par des moyens médicaux ou magiques.
 
 
-===== Points de vie =====
-Les PV d’un personnage sont la mesure de sa résistance, de son endurance et de sa santé. Plus le personnage a de PV, plus il peut combattre longtemps et encaisser des blessures avant de regarder la mort en face.  
-Votre classe vous indique comment calculer votre maximum de PV. Votre Constitution (la caractéristique, pas l’ajustement) entre dans le calcul. Plus la constitution est élevée, plus vous aurez de PV. Si votre score de Constitution change durant le jeu, ajustez vos PV en
-conséquence. A moins que votre Constitution ne change, votre maximum de PV reste le même. 
+### Points de vie
 
-===== Dégâts =====
+Les - mal nommés - PV d’un personnage sont une jauge de résistance au stress, d'endurance et de chance. Les PV **ne représentent pas des blessures**. Plus le personnage a de PV, plus il peut combattre longtemps et encaisser des coups avant de regarder la mort en face.  
+La perte de PV signifie que vous vous fatiguez, vous vous stresser, votre chance diminue, que vous êtes écorché, contusionné. Les blessures graves , qui ne surviennent qu'à 0 PV, ont des conséquences gérées par l'action ***Dernier soupir***   
+Votre classe vous indique comment calculer votre maximum de PV. Votre CON entre dans le calcul. Vous gagnerez aussi des PV en montant de niveau. Si votre score de Constitution change durant le jeu, ajustez vos PV en
+conséquence. 
+
+### Dégâts
 
 Lorsqu’un personnage subit des dégâts, il les déduit de son montant actuel de PV. L’armure modère les dégâts ; un personnage soustrait la valeur de l’armure qu’il porte des dégâts qui lui sont infligés. Cela signifie qu’un coup peut être entièrement neutralisé de cette façon. Ça tombe
 bien, c’est justement ce à quoi sert une armure !
